@@ -12,15 +12,13 @@ In this project, we will develop a visually appealing and user-friendly landing 
 
 3. **Property Listings**: Display property listings with high-quality images, concise descriptions, and essential details like price, location, size, and amenities.
 
-4. **Interactive Map**: Incorporate an interactive map feature using JavaScript APIs to allow users to explore properties based on their preferred location.
+4. **Advanced Search**: Implement advanced search functionalities, including filters for property type, price range, number of bedrooms, and more, to help users narrow down their options efficiently.
 
-5. **Advanced Search**: Implement advanced search functionalities, including filters for property type, price range, number of bedrooms, and more, to help users narrow down their options efficiently.
+5. **Responsive Design**: Ensure that the landing page is fully responsive and optimized for various devices and screen sizes, including desktops, tablets, and smartphones.
 
-6. **Responsive Design**: Ensure that the landing page is fully responsive and optimized for various devices and screen sizes, including desktops, tablets, and smartphones.
+6. **Contact Forms**: Include contact forms on property listings to enable users to inquire about specific properties or schedule viewings directly from the landing page.
 
-7. **Contact Forms**: Include contact forms on property listings to enable users to inquire about specific properties or schedule viewings directly from the landing page.
-
-8. **Testimonials Section**: Add a section for client testimonials to build trust and credibility among potential buyers and sellers.
+7. **Testimonials Section**: Add a section for client testimonials to build trust and credibility among potential buyers and sellers.
 
 # Technologies Used:
 
