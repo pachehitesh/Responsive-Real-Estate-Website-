@@ -1,7 +1,6 @@
 # Responsive-Real-Estate-Website-
-**Project Title: Real Estate Hub - Stunning Landing Page**
 
-**Project Description:**
+# Project Description:
 
 In this project, we will develop a visually appealing and user-friendly landing page for a real estate hub using HTML, CSS, and JavaScript. The goal is to create an interactive platform where users can effortlessly buy, sell, and explore properties.
 
@@ -29,7 +28,6 @@ In this project, we will develop a visually appealing and user-friendly landing 
 - **CSS**: For styling the layout, including colors, typography, and responsive design.
 - **JavaScript**: For implementing interactive features such as the map, search functionality, and contact forms.
 - **Bootstrap or other CSS frameworks**: To expedite development and ensure responsiveness.
-- **Google Maps API**: To integrate the interactive map feature.
 - **Formspree or similar service**: To handle contact form submissions.
 - **Version Control (e.g., Git)**: To manage source code and facilitate collaboration.
 
